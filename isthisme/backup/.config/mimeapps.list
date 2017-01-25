@@ -1,0 +1,8 @@
+[Added Associations]
+application/zip=org.gnome.FileRoller.desktop;
+application/x-compressed-tar=org.gnome.FileRoller.desktop;
+application/x-shellscript=urxvt.desktop;emacs.desktop;
+text/plain=emacs.desktop;
+text/markdown=emacs.desktop;
+text/x-python=emacs.desktop;
+text/x-install=emacs.desktop;

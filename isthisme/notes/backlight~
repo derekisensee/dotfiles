@@ -1,0 +1,11 @@
+directory for major stuff:
+
+/sys/class/backlight/intel_backlight
+
+current brightness:
+
+less brightness
+
+set a new brightness:
+
+tee /sys/class/backlight/intel_backlight/brightness <<< xxxx

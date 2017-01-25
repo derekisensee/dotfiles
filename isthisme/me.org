@@ -1,0 +1,4 @@
+* Tasks
+** TODO Do another USACO Problem - Greedy Gift Givers.
+** TODO Setup Google Calender Syncing
+** TODO 

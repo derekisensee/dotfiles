@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Eclipse
+Comment=Java IDE
+Exec=/home/eclipse/eclipse
+Icon=eclipse
+Path=
+Terminal=false
+StartupNotify=false

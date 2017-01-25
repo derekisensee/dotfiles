@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <value type="int" value="2"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=6;x=0;y=0"/>
+      <property name="length" type="uint" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="size" type="uint" value="24"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="1"/>
+        <value type="int" value="3"/>
+        <value type="int" value="15"/>
+        <value type="int" value="4"/>
+        <value type="int" value="5"/>
+        <value type="int" value="6"/>
+        <value type="int" value="16"/>
+        <value type="int" value="2"/>
+      </property>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="background-alpha" type="uint" value="100"/>
+      <property name="mode" type="uint" value="0"/>
+      <property name="span-monitors" type="bool" value="false"/>
+      <property name="nrows" type="uint" value="1"/>
+      <property name="enter-opacity" type="uint" value="90"/>
+      <property name="leave-opacity" type="uint" value="90"/>
+      <property name="background-color" type="array">
+        <value type="uint" value="54154"/>
+        <value type="uint" value="39795"/>
+        <value type="uint" value="37867"/>
+        <value type="uint" value="65535"/>
+      </property>
+      <property name="background-image" type="string" value="/root/Downloads/4A9U7TY.png"/>
+    </property>
+    <property name="panel-2" type="empty">
+      <property name="position" type="string" value="p=10;x=0;y=0"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="11"/>
+        <value type="int" value="7"/>
+        <value type="int" value="8"/>
+        <value type="int" value="14"/>
+        <value type="int" value="17"/>
+        <value type="int" value="12"/>
+      </property>
+      <property name="mode" type="uint" value="0"/>
+      <property name="span-monitors" type="bool" value="false"/>
+      <property name="background-style" type="uint" value="0"/>
+      <property name="background-color" type="array">
+        <value type="uint" value="42818"/>
+        <value type="uint" value="39085"/>
+        <value type="uint" value="58107"/>
+        <value type="uint" value="65535"/>
+      </property>
+      <property name="background-alpha" type="uint" value="14"/>
+      <property name="enter-opacity" type="uint" value="100"/>
+      <property name="leave-opacity" type="uint" value="100"/>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-1" type="string" value="applicationsmenu">
+      <property name="show-menu-icons" type="bool" value="true"/>
+      <property name="button-icon" type="string" value="xfce4-panel"/>
+      <property name="custom-menu" type="bool" value="false"/>
+    </property>
+    <property name="plugin-2" type="string" value="actions"/>
+    <property name="plugin-3" type="string" value="tasklist">
+      <property name="grouping" type="uint" value="1"/>
+      <property name="flat-buttons" type="bool" value="false"/>
+    </property>
+    <property name="plugin-15" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-4" type="string" value="pager">
+      <property name="rows" type="uint" value="1"/>
+      <property name="miniature-view" type="bool" value="true"/>
+    </property>
+    <property name="plugin-5" type="string" value="clock">
+      <property name="digital-format" type="string" value="%r"/>
+      <property name="mode" type="uint" value="2"/>
+    </property>
+    <property name="plugin-6" type="string" value="systray">
+      <property name="names-visible" type="array">
+        <value type="string" value="redshift-gtk"/>
+        <value type="string" value="thunar"/>
+      </property>
+    </property>
+    <property name="plugin-11" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="14741190223.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-12" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="14741190224.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-14" type="string" value="directorymenu">
+      <property name="base-directory" type="string" value="/root"/>
+      <property name="icon-name" type="string" value="file-manager-blue"/>
+    </property>
+    <property name="plugin-16" type="string" value="power-manager-plugin"/>
+    <property name="plugin-17" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="14747662571.desktop"/>
+      </property>
+      <property name="show-label" type="bool" value="false"/>
+      <property name="disable-tooltips" type="bool" value="false"/>
+    </property>
+    <property name="plugin-7" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="14748397911.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-8" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="14748406441.desktop"/>
+      </property>
+    </property>
+  </property>
+</channel>
