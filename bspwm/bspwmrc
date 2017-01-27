@@ -3,7 +3,7 @@
 sxhkd &
 
 bspc config border_width         2
-bspc config window_gap           8 #normally 12
+bspc config window_gap           3 #normally 12
 
 bspc config split_ratio          0.52
 bspc config borderless_monocle   true
@@ -11,7 +11,7 @@ bspc config gapless_monocle      true
 bspc config focus_by_distance    true
 bspc config history_aware_focus  true
 
-bspc config -m LVDS1 top_padding 23
+bspc config -m LVDS1 top_padding 28
 bspc config -m VGA1 top_padding 23
 
 bspc monitor LVDS1 -d I III V  
