@@ -11,4 +11,5 @@
 ** Simple web browser?
 *** TroutBrowser!
 *** Focus on speed, mostly reads HTML.
+*** TODO Create simple HTML page and display it
 ** Java Text editor with GUI or command line option?
