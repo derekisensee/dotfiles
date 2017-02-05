@@ -1,0 +1,14 @@
+* Tasks
+** TODO Do another USACO Problem - Greedy Gift Givers.
+** TODO Setup Google Calender Syncing
+** 
+** DONE Fix up second bar on second monitor, determine what to put on there.
+   CLOSED: [2017-02-05 Sun 20:24]
+** DONE Fix bar padding on top of main monitor.
+   CLOSED: [2017-02-05 Sun 20:24]
+
+* Programming Ideas
+** Simple web browser?
+*** TroutBrowser!
+*** Focus on speed, mostly reads HTML.
+** Java Text editor with GUI or command line option?
